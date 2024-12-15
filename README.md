@@ -21,3 +21,5 @@ Visualization
 Conclusion
 
 This notebook provides a step-by-step guide to building a stock price forecasting model using LSTM. The model uses historical stock price data to predict future prices, helping investors make informed decisions.
+
+![fibo gold](https://github.com/user-attachments/assets/c1c85a06-1346-456f-9f92-64c26cecd710)
